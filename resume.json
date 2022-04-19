@@ -1,0 +1,190 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Edson Boldrini",
+    "label": "Full Stack Engineer",
+    "image": "https://avatars.githubusercontent.cgit om/u/31242886?v=4",
+    "email": "edsonboldrini@gmail.com",
+    "phone": "+55 (27) 99874-5225",
+    "url": "https://github.com/edsonboldrini",
+    "summary": "I like to say: \"I solve problems and give systems working assurance: first I build and make it work, then I improve.\"\n\n I am a Full Stack Software Engineer who love this carrer, 3+ years experience building APIs, web apps and mobile apps. I specialize in JavaScript and Flutter and have professional experience working with NodeJS, Vue, Hasura, Docker, AWS, Elixir and of course Flutter. I also have some experience or experimental attempts with C# (.NET core), React and React Native. Take a look at my projects on github or get in touch! I don't have many public projects available on my github, but I'm working on filling it out.\n\n I am passionate about knowledge and I work every day to be the best version of myself.",
+    "location": {
+      "address": "Rua Julio Cesar de Oliveira Serrano, 135",
+      "postalCode": "29065720",
+      "city": "Vitória",
+      "countryCode": "BR",
+      "region": "Espírito Santo, ES"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "edsonboldrini",
+        "url": "https://github.com/edsonboldrini"
+      },
+      {
+        "network": "Linkedin",
+        "username": "edsonboldrini",
+        "url": "https://linkedin.com/in/edsonboldrini"
+      },
+      {
+        "network": "Twitter",
+        "username": "edsonboldrini",
+        "url": "https://twitter.com/edsonboldrini"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Além",
+      "location": "Vitória, ES",
+      "description": "Awesome online travel based company",
+      "position": "Full Stack Engineer",
+      "url": "https://alem.com.br",
+      "startDate": "2021-07-07",
+      "endDate": "Present",
+      "summary": "My role was to write the back-end and front-end components chasing the requirements of the architecture and figma mocks fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. Technologies used: Vue, SASS, NodeJS, Hasura, AdonisJS, Docker, PostgreSQL, MySQL, Github Actions, AWS (ECS, EC2, S3, Cloud Front, LoadBalancers, Cloud Watch).",
+      "highlights": [
+        "I build the most part of the subscription product called by Club Trip",
+        "A lot of learning about AWS services"
+      ]
+    },
+    {
+      "name": "Conceptho",
+      "location": "Vitória, ES",
+      "description": "Awesome online travel based company",
+      "position": "Full Stack Engineer",
+      "url": "https://conceptho.com",
+      "startDate": "2020-09-07",
+      "endDate": "2021-07-07",
+      "summary": "My role was to write the back-end, front-end and mobile components chasing the requirements of the architecture and figma mocks fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. Technologies used: Flutter (MobX), Vue, SASS, NodeJS, Hasura, AdonisJS, Docker, PostgreSQL, MySQL, Github Actions, AWS (ECS, EC2, S3, Cloud Front, LoadBalancers, Cloud Watch).",
+      "highlights": [
+        "I build the most part of the security used by a news app including disabling or discouraging the user to make screenshots of protected areas",
+        "A lot of learning about paywalls and protected content"
+      ]
+    },
+    {
+      "name": "Dersalis",
+      "location": "Vitória, ES",
+      "description": "Awesome healthcare and productivity company",
+      "position": "Full Stack Engineer",
+      "url": "https://dersalis.com.br",
+      "startDate": "2019-08-01",
+      "endDate": "2021-07-07",
+      "summary": "My role was manage the developer team and to write the back-end, front-end and mobile components chasing the requirements of the architecture fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. At the end, I was responsible to build and deploy the applications to production. Technologies used: Flutter (BloC, MobX, Modular), Vue, SASS, NodeJS, Elixir (Phoenix), Hasura, Docker, PostgreSQL, AWS (ECS, EC2, S3, Cloud Front, LoadBalancers).",
+      "highlights": [
+        "I build from scratch the mobile apps used by Dersalis to manage smartbands and care of workers life",
+        "A lot of learning about realtime data and bunch of I/O"
+      ]
+    },
+    {
+      "name": "Le Card",
+      "location": "Vitória, ES",
+      "description": "Awesome payment and processing orders company",
+      "position": "Full Stack Engineer",
+      "url": "https://www.lecard.com.br/",
+      "startDate": "2018-07-01",
+      "endDate": "2019-07-01",
+      "summary": "My role was to write the back-end, front-end and mobile components chasing the requirements of the architecture and figma mocks fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. We process payments using an mobile app with a bluetooth terminal. Technologies used: Xamarin, .NET Core, Razor Pages (MVVM), TDD, Microsoft Azure.",
+      "highlights": [
+        "I build from scratch the mobile app used by the company to process payments",
+        "A lot of learning about payment and credit taxes"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
