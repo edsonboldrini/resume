@@ -35,13 +35,27 @@
   },
   "work": [
     {
+      "name": "W3.care",
+      "location": "São Paulo, SP",
+      "description": "Awesome health care company",
+      "position": "Full Stack Engineer (Mobile and Frontend specially)",
+      "url": "https://w3.care/",
+      "startDate": "2021-04-11",
+      "endDate": "Present",
+      "summary": "My role was to write the back-end and front-end components chasing the requirements of the architecture and figma mocks fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. Technologies used: Vue, SASS, NodeJS, Hasura, AdonisJS, Docker, PostgreSQL, MySQL, Github Actions, AWS (ECS, EC2, S3, Cloud Front, LoadBalancers, Cloud Watch).",
+      "highlights": [
+        "I build the most part of the subscription product called by Club Trip",
+        "A lot of learning about AWS services"
+      ]
+    },
+    {
       "name": "Além",
       "location": "Vitória, ES",
       "description": "Awesome online travel based company",
       "position": "Full Stack Engineer",
       "url": "https://alem.com.br",
       "startDate": "2021-07-07",
-      "endDate": "Present",
+      "endDate": "2022-04-11",
       "summary": "My role was to write the back-end and front-end components chasing the requirements of the architecture and figma mocks fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. Technologies used: Vue, SASS, NodeJS, Hasura, AdonisJS, Docker, PostgreSQL, MySQL, Github Actions, AWS (ECS, EC2, S3, Cloud Front, LoadBalancers, Cloud Watch).",
       "highlights": [
         "I build the most part of the subscription product called by Club Trip",
