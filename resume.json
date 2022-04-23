@@ -35,17 +35,17 @@
   },
   "work": [
     {
-      "name": "W3.care",
+      "name": "w3.care",
       "location": "São Paulo, SP",
       "description": "Awesome health care company",
       "position": "Full Stack Engineer (Mobile and Frontend specially)",
       "url": "https://w3.care/",
       "startDate": "2021-04-11",
       "endDate": "Present",
-      "summary": "My role was to write the back-end and front-end components chasing the requirements of the architecture and figma mocks fulfilling our user stories. I also process pull requests and discuss the architecture decisions with the team in an agile software development environment. Technologies used: Vue, SASS, NodeJS, Hasura, AdonisJS, Docker, PostgreSQL, MySQL, Github Actions, AWS (ECS, EC2, S3, Cloud Front, LoadBalancers, Cloud Watch).",
+      "summary": "",
       "highlights": [
-        "I build the most part of the subscription product called by Club Trip",
-        "A lot of learning about AWS services"
+        "",
+        ""
       ]
     },
     {
